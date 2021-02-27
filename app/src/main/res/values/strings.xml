@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cotação</string>
+    <string name="menu_configuration">Configuração</string>
+    <string name="update_time">Tempo de Atualização(Segundos):</string>
+</resources>
